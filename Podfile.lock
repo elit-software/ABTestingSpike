@@ -1,0 +1,12 @@
+PODS:
+  - Taplytics (2.16.2)
+
+DEPENDENCIES:
+  - Taplytics
+
+SPEC CHECKSUMS:
+  Taplytics: db67d1445ebdcd35caadef50442fe8b0b0de4f4d
+
+PODFILE CHECKSUM: f694c2a80a9d25674cfa848fbea99f123a053924
+
+COCOAPODS: 1.2.0.beta.1

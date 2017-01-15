@@ -1,0 +1,6 @@
+framework module Pods_ABTestingSpike {
+  umbrella header "Pods-ABTestingSpike-umbrella.h"
+
+  export *
+  module * { export * }
+}
